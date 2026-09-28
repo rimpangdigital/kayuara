@@ -87,4 +87,4 @@ HTMLText_F4A43AB0_E71C_9740_41D0_264C150E8C0A.html = <div style="text-align:left
 ### Description
 
 ### Title
-tour.name = Untitled 9
+tour.name = kayuara
